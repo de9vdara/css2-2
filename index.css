@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+#divtavi {
+    width: 980px;
+    margin: auto;
+    margin-top: 12px;
+
+}
+
+#nextlogo {
+    width: 147px;
+    margin-right: 150px;
+}
+
+#divnavebi {
+    display: inline-block;
+}
+
+#list {
+    display: inline-block;
+    list-style-type: none;
+    margin: auto;
+
+}
+a{
+    text-decoration: none;
+}
+
+.listitem {
+    display: inline-block;
+}
+.listitemm{
+    display: inline-block;
+}
+.listitemm a{
+    color: #FF5DA3;
+    margin-left: 20px;
+}
+
+.listitem a {
+    text-align: none;
+    color: gray;
+    margin-left: 20px;
+}
+
+#gilaki {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #00AC25;
+    background-color: #00AC25;
+    font-size: 14px;
+    margin-left: 150px;
+    color: white;
+}
+#shua{
+    margin: auto;
+    width: 1100px;
+    margin-top: 292px;
+    margin-bottom: 663px;
+}
+#didi{
+    text-align: center;
+    font-size: 72px;
+}
+#vardisperi{
+    color: #FF5DA3;
+}
+#para{
+    color: #000;
+text-align: center;
+font-size: 24px;
+line-height: 32px;
+margin: 24px 0px;
+}
+h2{
+    color: #000;
+text-align: center;
+font-size: 48px;
+font-weight: 700;
+}
+#paraoris{
+    margin: 0 auto;
+    width: 716px;
+}
+#paraori{
+    color: #6941C6;
+text-align: center;
+font-size: 24px;
+margin: 24px 0px;
+}
+#gilakis{
+    text-align: center;
+    margin: 0 auto;
+}
+#gilakii{
+    border-radius: 8px;
+    border: 1px solid #00AC25;
+    background-color: #00AC25;
+    margin: 0 auto;
+    padding: 16px 24px;
+/* justify-content: center; */
+align-items: center;
+color: white;
+display: inline-block;
+}
+.listitm{
+    display: inline-block;
+    margin-right: 32px;
+}
+#potosgverdze{
+    display: inline-block;
+    vertical-align: middle;
+}
+#listt {
+    display: inline-block;
+    list-style-type: none;
+    margin: auto;
+}
+#meorelogo{
+    vertical-align: middle;
+}
+#pototeqstit{
+    margin-right: 200px;
+    display: inline-block;
+}
+#divnavebiori{
+    display: inline-block;
+}
+#futeri{
+    padding: 48px;
+    background-color: #53389E;
+}
+#gacentraa{
+    width: 1216px;
+    text-align: center;
+    margin: auto;
+}
+#imiani{
+    margin-left: 200px;
+    display: inline-block;
+}
+footer{
+    color: #D6BBFB;
+}
