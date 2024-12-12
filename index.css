@@ -5,7 +5,7 @@
 
 }
 
-#divtavi {
+#headerContainer {
     width: 980px;
     margin: auto;
     margin-top: 12px;
@@ -17,7 +17,7 @@
     margin-right: 150px;
 }
 
-#divnavebi {
+#navigationList {
     display: inline-block;
 }
 
@@ -27,28 +27,43 @@
     margin: auto;
 
 }
-a{
+
+a {
     text-decoration: none;
 }
 
-.listitem {
+#list li {
     display: inline-block;
 }
-.listitemm{
+
+#pinkListItem {
     display: inline-block;
 }
-.listitemm a{
+
+#pinkAnchor {
     color: #FF5DA3;
     margin-left: 20px;
 }
 
-.listitem a {
+#thirdGreyA a {
     text-align: none;
     color: gray;
     margin-left: 20px;
 }
 
-#gilaki {
+#greyA a {
+    text-align: none;
+    color: gray;
+    margin-left: 20px;
+}
+
+#secondGreyA a {
+    text-align: none;
+    color: gray;
+    margin-left: 20px;
+}
+
+#contactUsButton {
     padding: 8px 16px;
     border-radius: 8px;
     border: 1px solid #00AC25;
@@ -57,94 +72,114 @@ a{
     margin-left: 150px;
     color: white;
 }
-#shua{
+
+#mainContainer {
     margin: auto;
     width: 1100px;
     margin-top: 292px;
     margin-bottom: 535px;
 }
-#didi{
+
+#didi {
     text-align: center;
     font-size: 72px;
 }
-#vardisperi{
+
+#mainHeaderSpan {
     color: #FF5DA3;
 }
-#para{
+
+#mainPar {
     color: #000;
-text-align: center;
-font-size: 24px;
-line-height: 32px;
-margin: 24px 0px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 32px;
+    margin: 24px 0px;
 }
-h2{
+
+h2 {
     color: #000;
-text-align: center;
-font-size: 48px;
-font-weight: 700;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
 }
-#paraoris{
+
+#secondParContainer {
     margin: 0 auto;
     width: 716px;
 }
-#paraori{
+
+#secondMainPar {
     color: #6941C6;
-text-align: center;
-font-size: 24px;
-margin: 24px 0px;
+    text-align: center;
+    font-size: 24px;
+    margin: 24px 0px;
 
 }
-#gilakis{
+
+#buttonContainer {
     text-align: center;
     margin: 0 auto;
 }
-#gilakii{
+
+#instructorButton {
     border-radius: 8px;
     border: 1px solid #00AC25;
     background-color: #00AC25;
     margin: 0 auto;
     padding: 16px 24px;
-/* justify-content: center; */
-align-items: center;
-color: white;
-display: inline-block;
+    /* justify-content: center; */
+    align-items: center;
+    color: white;
+    display: inline-block;
 }
-.listitm{
+
+#footerList li{
     display: inline-block;
     margin-right: 32px;
 }
-#potosgverdze{
+
+#footerLogoTitle {
     display: inline-block;
     vertical-align: middle;
+    color: #fff;
 }
-#listt {
+
+#footerList {
     display: inline-block;
     list-style-type: none;
     margin: auto;
 }
-#meorelogo{
+
+#footerLogo {
     vertical-align: middle;
 }
-#pototeqstit{
+
+#pototeqstit {
     margin-right: 200px;
     display: inline-block;
 }
-#divnavebiori{
+
+#footerNavigations {
     display: inline-block;
 }
-#futeri{
+
+#footer {
     padding: 48px;
     background-color: #53389E;
 }
-#gacentraa{
+
+#footerContainer {
     width: 1216px;
     text-align: center;
     margin: auto;
 }
-#imiani{
+
+#footerCopyright {
     margin-left: 200px;
     display: inline-block;
 }
-footer{
+
+footer {
     color: #D6BBFB;
 }
